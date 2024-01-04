@@ -1,3 +1,6 @@
 {
-    "IDX.aI.enableInlineCompletion": true
+    "IDX.aI.enableInlineCompletion": true,
+    "IDX.corgiMode": true,
+    "IDX.webDevTools": true,
+    "IDX.aI.enableCodebaseIndexing": true
 }
